@@ -1,0 +1,24 @@
+- title: Pages
+  links:
+    - name: Home
+      link: /
+    - name: About
+      link: /about/
+    - name: People
+      link: /people/
+    - name: Practice Areas
+      link: /practices/
+    - name: Contact
+      link: /contact/
+    - name: Journal
+      link: /journal/
+- title: Social
+  links:
+    - name: Twitter
+      link: http://twitter.com/holmlegal
+      social_icon: Twitter
+      new_window: true
+    - name: LinkedIn
+      link: https://www.linkedin.com/company/holm-legal-ng
+      social_icon: LinkedIn
+      new_window: true
