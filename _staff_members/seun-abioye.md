@@ -5,4 +5,4 @@ credentials: LLB
 mail: "ikramabioye@gmail.com"
 ---
 
-With an interest in employment law, Seun works tirelessly to improve workplaces.
+Seun Abioye- Seun heads the firm’s Maritime department and Intellectual property practice. He is also on the firm’s capital market advisory board.He is a graduate of University of Lagos, Akoka.

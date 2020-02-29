@@ -5,4 +5,4 @@ credentials: LLB
 mail: "tomiwa_babatunde@gmail.com"
 ---
 
-With an interest in employment law, Tomiwa works tirelessly to improve workplaces.
+Tomiwa heads the firm’s dispute resolution and Taxation department. He is on the firm’s infrastructure advisory board and also a key player in corporate and commercial practices. He is a graduate of University of Lagos, Akoka.
