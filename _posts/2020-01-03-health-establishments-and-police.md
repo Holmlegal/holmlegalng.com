@@ -1,6 +1,6 @@
 ---
 title: Health Establishments and Police Report - The Position of The Law
-date: 2020-01-03 00:00:00
+date: 2020-03-01 00:00:00
 categories:
   - Property
 author_staff_member: zmoses-agegenu
