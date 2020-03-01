@@ -1,10 +1,10 @@
 ---
 title: Business Mergers
-date: 2016-08-10 00:00:00
+date: 2019-08-10 00:00:00
 categories:
   - Business
 author_staff_member: seun-abioye
-image: "/images/seunAbioye.webp"
+image: "/images/4.jpg"
 large_header: false
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: Real Estate Flipping
-date: 2016-11-11 00:00:00
+date: 2019-11-11 00:00:00
 categories:
   - Property
 author_staff_member: tomiwa-babatunde
-image: "/images/tomiwaBabatunde.webp"
+image: "/images/home.jpg"
 large_header: false
 ---
 
