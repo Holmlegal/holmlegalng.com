@@ -3,7 +3,7 @@ title: Health Establishments and Police Report - The Position of The Law
 date: 2020-03-01 00:00:00
 categories:
   - Policy Formulation
-author_staff_member: zmoses-agegenu
+author_staff_member: moses-agegenu
 image: "/images/car-crash.jpg"
 large_header: false
 ---

@@ -3,7 +3,7 @@ title: Wearing camouflage - The position of the law
 date: 2020-03-03 09:00:00
 categories:
   - Policy Formulation
-author_staff_member: zmoses-agegenu
+author_staff_member: moses-agegenu
 image: "/images/camoflage.jpg"
 large_header: false
 ---
