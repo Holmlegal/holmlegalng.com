@@ -37,8 +37,8 @@ defaults:
       path: ""
     values:
       layout: page
-      background_image_path: /Holmlegal.jpg
-      image: /Holmlegal.jpg
+      background_image_path: /images/holmlegal.jpg
+      image: /images/holmlegal.jpg
   -
     scope:
       path: ""
