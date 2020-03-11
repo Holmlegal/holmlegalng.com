@@ -30,6 +30,7 @@ paginate_path: "/journal/:num/"
 
 collections:
   - "staff_members"
+  - "content_creators"
 
 defaults:
   -
@@ -55,6 +56,15 @@ defaults:
     scope:
       path: ""
       type: "staff_members"
+    values:
+      _options:
+        image:
+          width: 440
+          height: 440
+  -
+    scope:
+      path: ""
+      type: "content_creators"
     values:
       _options:
         image:
@@ -103,6 +113,7 @@ _comments:
   large_header: Toggles the size of the top banner.
   show_in_navigation: Toggles a link in the top banner.
   author_staff_member: The staff member writing this post.
+  content_creator_member: The content creator writing this post.
   call_to_action: Type of request shown at the bottom of this page.
   background_image_path: Image shown in the top banner, blank for the default.
   testimonials: Update, add or remove testimonials.

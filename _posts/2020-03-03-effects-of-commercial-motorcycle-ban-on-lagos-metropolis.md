@@ -3,7 +3,7 @@ title: COMMERCIAL MOTORCYCLE BAN ON THE LAGOS METROPOLIS - THE EFFECTS
 date: 2020-03-03 22:00:00
 categories:
   - Policy Formulation
-author_staff_member: fasasi-latifa
+content_creator_member: fasasi-latifa
 image: "/images/okada_ban.png"
 large_header: false
 ---
