@@ -7,12 +7,23 @@ layout: page
 <div>{{ content }}</div>
 
 <h2>Meet the author</h2>
-<div class="post-author staff">
-	{% assign author_id = page.author_staff_member | prepend: "/staff_members/" | append: "/" %}
-	{% assign author = site.staff_members | where: "url", author_id | first %}
+{% if page.author_staff_member %}
+	<div class="post-author staff">
+		{% assign author_id = page.author_staff_member | prepend: "/staff_members/" | append: "/" %}
+		{% assign author = site.staff_members | where: "url", author_id | first %}
 
-	{% include staff-member.html member=author %}
-</div>
+		{% include staff-member.html member=author %}
+	</div>
+{% endif %}
+
+{% if page.content_creator_member %}
+	<div class="post-author staff">
+		{% assign author_id = page.content_creator_member | prepend: "/content_creators/" | append: "/" %}
+		{% assign author = site.content_creators | where: "url", author_id | first %}
+
+		{% include staff-member.html member=author %}
+	</div>
+{% endif %}
 
 <h2>Keep reading</h2>
 <ol class="post-links post-list">
