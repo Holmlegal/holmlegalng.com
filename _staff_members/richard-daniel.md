@@ -1,6 +1,6 @@
 ---
-name: Richard Okeopara
-image: "/images/RichardOkeopara.webp"
+name: Richard Daniel
+image: "/images/Richard.jpg"
 credentials: LLB
 mail: "ekeyrichard@gmail.com"
 ---
