@@ -1,6 +1,6 @@
 ---
 name: Seun Abioye
-image: "/images/seunAbioye.webp"
+image: "/images/seunAbioye.jpg"
 credentials: LLB
 mail: "ikramabioye@gmail.com"
 ---

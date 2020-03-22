@@ -1,6 +1,6 @@
 ---
 name: Ebuka Omerole
-image: "/images/ebukaOmerole.webp"
+image: "/images/ebukaOmerole.png"
 credentials: LLB
 mail: "arthuromerole@gmail.com"
 ---

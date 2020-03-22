@@ -1,6 +1,6 @@
 ---
 name: Moses Agegenu
-image: "/images/mosesAgegenu.webp"
+image: "/images/mosesAgegenu.jpg"
 credentials: LLB
 mail: "mosesagegenu@gmail.com"
 ---
