@@ -3,7 +3,7 @@ title: Health standards and the law
 categories:
 - policy formation
 author_staff_member: moses-agegenu
-image: "images/hospital-doctor.jpg"
+image: "images/car-crash.jpg"
 large_headers: false
 ---
 
