@@ -1,5 +1,5 @@
 ---
-title: health standards and the law
+title: Health standards and the law
 categories:
 - policy formation
 author_staff_member: moses-agegenu
