@@ -11,4 +11,4 @@ large_headers: false
 
 Health blah blah and more blah......
 
-![Image of Moses]("/images/moses-agegenu.jpg")
+![Image of Moses](/images/mosesAgegenu.jpg)
