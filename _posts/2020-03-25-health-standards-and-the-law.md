@@ -1,7 +1,7 @@
 ---
 title: health standards and the law
 categories:
-	- policy formation
+- policy formation
 author_staff_member: moses-agegenu
 image: "images/hospital-doctor.jpg"
 large_headers: false
@@ -11,14 +11,4 @@ large_headers: false
 
 Health blah blah and more blah......
 
-
-
-
-
-
-
-
-
-
-
-[!]
+![Image of Moses](/images/moses-agegenu.jpg)
