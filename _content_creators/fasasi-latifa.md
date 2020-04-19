@@ -1,6 +1,6 @@
 ---
 name: Fasasi Latifa
-image: "/images/fasasi-latifa.webp"
+image: "/images/fasasiLatifa.webp"
 credentials: LLB
 mail: "fasasil04@gmail.com"
 ---
