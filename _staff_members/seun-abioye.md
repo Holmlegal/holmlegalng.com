@@ -1,6 +1,6 @@
 ---
 name: Seun Abioye
-image: "/images/seunAbioye.jpg"
+image: "/images/tomiwaBabatunde.jpg"
 credentials: LLB
 mail: "ikramabioye@gmail.com"
 ---
