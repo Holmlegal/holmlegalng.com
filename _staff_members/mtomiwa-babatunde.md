@@ -1,6 +1,6 @@
 ---
 name: Tomiwa Babatunde
-image: "/assets/images/tomiwa-Babatunde1.jpg"
+image: "/assets/images/tomiwa-Babatundee.jpg"
 credentials: LLB
 mail: "tomiwa_babatunde@yahoo.com"
 ---
