@@ -4,7 +4,7 @@ date: 2020-03-03 22:00:00
 categories:
   - Policy Formulation
 content_creator_member: fasasi-latifa
-image: "/images/okada_ban.png"
+image: "/images/okada_keke_ban.jpg"
 large_header: false
 ---
 

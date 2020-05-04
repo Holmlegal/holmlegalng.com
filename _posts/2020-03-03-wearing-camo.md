@@ -4,7 +4,7 @@ date: 2020-03-03 09:00:00
 categories:
   - Policy Formulation
 author_staff_member: moses-agegenu
-image: "/images/camoflage.jpg"
+image: "/images/army_camo.jpg"
 large_header: false
 ---
 
