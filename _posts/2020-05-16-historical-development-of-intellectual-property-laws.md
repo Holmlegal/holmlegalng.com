@@ -47,13 +47,13 @@ It is clear that intellectual property protection in Nigeria has a rich history,
 <sup>2</sup> Adebambo Adewopo, “According To Intellectual Property: A Pro-Development Vision Of The Law And The Nigerian Intellectual Property Law And Policy Reform In The Knowledge Era”. Available [here](http://www.lalegalconsultants.com/ver1/wp-content/uploads/2017/07/NIALS-5th-Inaugural-Lecture.pdf)
 
 <sup>3</sup> Adebambo Adewopo, “Nigerian Copyright System, Principles & Perspectives”, Odade Publishing, 2012, 4-5.
-<sup>4</sup> Kunle Ola, “Evolution and Future Trends of Copyright in Nigeria” Available [here](https://ojs.law.cornell.edu/index.php/joal/article/download/26/38/)
+<sup>4</sup> Kunle Ola, “Evolution and Future Trends of Copyright in Nigeria”. Available [here](https://ojs.law.cornell.edu/index.php/joal/article/download/26/38/)
 
-<sup>5</sup> Gurry Francis, “Re-Thinking the Role of Intellectual Property”, WIPO (2013) Available [here](https://www.wipo.int/export/sites/www/about-wipo/en/dgo/speeches/pdf/dg_speech_melbourne_2013.pdf)
+<sup>5</sup> Gurry Francis, “Re-Thinking the Role of Intellectual Property”, WIPO (2013). Available [here](https://www.wipo.int/export/sites/www/about-wipo/en/dgo/speeches/pdf/dg_speech_melbourne_2013.pdf)
 
 <sup>6</sup> Royal Irish Academy, MS 24, 25. See also, Thomas Cahill, How The Irish Saved Civilization, Anchor Books, Doubleday, New York, New York, 1995, p.14. 170.
 
-<sup>7</sup> K Fogel, “The Surprising History of Copyright and the Promise of a Post-Copyright World,” Available [here](https://questioncopyright.org/promise)
+<sup>7</sup> K Fogel, “The Surprising History of Copyright and the Promise of a Post-Copyright World”. Available [here](https://questioncopyright.org/promise)
 
 <sup>8</sup> Ibid
 
@@ -61,7 +61,7 @@ It is clear that intellectual property protection in Nigeria has a rich history,
 
 <sup>10</sup> O.F.Babafemi, “Intellectual Property: The Law and Practice of Copyright, Trade Marks, Patents and Industrial, Designs in Nigeria” (Ibadan: Justinian Books, 2006) p.5
 
-<sup>11</sup> A. Zunia, “Review of the Nigerian System of Intellectual Property”, available [here](http://zunia.org/post/a-review-of-thenigerian-system-of-intellectual-property)
+<sup>11</sup> A. Zunia, “Review of the Nigerian System of Intellectual Property”. Available [here](http://zunia.org/post/a-review-of-thenigerian-system-of-intellectual-property)
 
 <sup>12</sup> Umar Abubakar Dubagari & KabiruGarba Muhammad “Legal Regime Of Intellectual Property Rights Protection In Nigeria: An Appraisal”, Journal of Political Science, Law and International Relations (JPSLIR) Vol. 1, Issue 1, Jun 2015, 13-26. Available [here](http://www.tjprc.org/publishpapers/--1438951302-3.%20Political%20Sci%20-%20JPSLIR%20-%20LEGAL%20REGIME%20OF%20INTELLECTUAL%20PROPERTY.pdf)
 
