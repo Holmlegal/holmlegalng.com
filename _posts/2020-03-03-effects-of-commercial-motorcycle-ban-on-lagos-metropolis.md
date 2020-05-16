@@ -29,7 +29,7 @@ For an unemployed person looking for a means of earning income, purchasing a mot
 
 **DISADVANTAGES OF COMMERCIAL MOTORCYCLE OPERATION** 
 
-The popular elitist and government sentiments are that many of these bikers are involved in criminal activities which is one of the reasons for the ban placed on the commercial motorcycles in the city of Lagos. However, survey has shown that most of the respondents(91.0%) have not been robbed by bandits operating on motorcycles, while 9.0% have been a victim.<sup>8</sup> As accidents involving motorcycles have increased over the years, most of these accidents were reported to have been as a result driver’s negligence and chaotic traffic. Many drivers are reckless with little or no regards for road signs, unlicensed and not properly trained. Several of the drivers drive under the influence of drugs and alcohol. 
+The popular elitist and government sentiments are that many of these bikers are involved in criminal activities which is one of the reasons for the ban placed on the commercial motorcycles in the city of Lagos. However, survey has shown that most of the respondents(91.0%) have not been robbed by bandits operating on motorcycles, while 9.0% have been a victim.<sup>8</sup> As accidents involving motorcycles have increased over the years, most of these accidents were reported to have been as a result driver’s negligence and chaotic traffic. Many drivers are reckless with little or no regards for road signs, unlicensed and not properly trained. Several of the drivers drive under the influence of drugs and alcohol.
 
 
 **THE EFFECT OF THE BAN ON SOCIO-ECONOMIC ACTIVITIES.**
@@ -55,7 +55,8 @@ In conclusion, the relationship between unemployment and crime is no joke and th
 
 
 ---
-**REFERENCES**
+
+## REFERENCES
 
   <sup>1</sup> Femi F. Asekhame, Michael D. Oisamoje, Ban on Commercial Motorcycle Operations in Benin City, Nigeria: An Appraisal of the Benefits and Business Opportunities, Developing Country Studies ISSN 2224-607X (Paper) ISSN 2225-0565 (Online) Vol. 3, No. 14, 2013.
 

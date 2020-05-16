@@ -23,4 +23,4 @@ Legal impassivity is perceived across other sectors in Nigeria but rampant in th
 
 As we begin to ask questions on how to properly protect intellectual property, claim ownership and other activities in the entertainment sector, we must consciously inculcate the legal culture.  Desired results will not be enjoyed if the much needed mechanisms are not put in place. 
 
-Conclusively, we must understand that our crass knowledge on “drafting contract” cannot merge the expertise of a lawyer, hence, the need to properly accommodate lawyers in a thriving business and the hope for some youths.  
+Conclusively, we must understand that our crass knowledge on “drafting contract” cannot merge the expertise of a lawyer, hence, the need to properly accommodate lawyers in a thriving business and the hope for some youths.
