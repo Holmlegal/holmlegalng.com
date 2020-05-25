@@ -1,6 +1,6 @@
 ---
 title: THE IMPORTANCE OF LEGAL PRACTITIONER IN THE ENTERTAINMENT INDUSTRY
-date: 2020-05-15 09:00:00
+date: 2020-05-25 18:00:00
 categories:
   - Intellectual Property
 author_staff_member: moses-agegenu
