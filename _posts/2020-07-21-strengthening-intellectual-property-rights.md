@@ -8,8 +8,6 @@ image: "/images/strengthen_intellect_prop.jpg"
 large_header: false
 ---
 
-## Content
-
 1. [Abstract](#abstract)
 1. [WHAT ARE INTELLECTUAL PROPERTY RIGHTS?](#10-what-are-intellectual-property-rights)
 1. [HIGHLIGHTS OF INTELLECTUAL PROPERTY LAW IN NIGERIA](#11-highlights-of-intellectual-property-law-in-nigeria)
